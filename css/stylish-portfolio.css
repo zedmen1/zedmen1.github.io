@@ -373,3 +373,16 @@ a:hover, a:focus, a:active {
 .text-secondary {
   color: #ecb807 !important;
 }
+
+
+ul {
+    
+}
+
+ul li {
+ list-style: none;   
+}
+
+ul li a {
+    
+}
